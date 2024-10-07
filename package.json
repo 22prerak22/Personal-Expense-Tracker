@@ -2,7 +2,7 @@
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/react-temp",
+  "homepage": "https://22prerak22.github.io/Personal-Expense-Tracker",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "chart.js": "^4.4.4",
