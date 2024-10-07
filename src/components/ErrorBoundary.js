@@ -1,5 +1,5 @@
 // src/components/ErrorBoundary.js
-import React, { useState } from "react";
+import React from "react";
 import Modal from "./UI/Modal"; // Create a Modal component
 // import "./ErrorBoundary.css"; // Add styles for your modal
 
