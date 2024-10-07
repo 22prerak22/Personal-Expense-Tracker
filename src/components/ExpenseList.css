@@ -1,0 +1,21 @@
+/* src/components/ExpenseList.css */
+.expense-list {
+  padding: 2rem;
+  text-align: center;
+}
+
+.expense-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.expense-list th,
+.expense-list td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.expense-list th {
+  background-color: #f2f2f2;
+}

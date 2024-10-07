@@ -1,0 +1,44 @@
+.summary-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+.summary-title {
+  font-size: 2rem;
+  color: #19346b;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.summary-total {
+  font-size: 1.25rem;
+  color: #333;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.summary-total strong {
+  color: #ff6384;
+}
+
+.summary-category-title {
+  font-size: 1.5rem;
+  color: #19346b;
+  text-align: center;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.summary-no-expenses {
+  text-align: center;
+  color: #888;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.summary-chart {
+  max-width: 500px;
+  margin: 0 auto;
+}

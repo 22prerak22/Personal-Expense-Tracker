@@ -1,0 +1,32 @@
+.header {
+  max-width: 60rem;
+  margin: auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img {
+  width: 167.5px;
+  height: 62.663px;
+}
+
+.list {
+  display: flex;
+  gap: 1rem;
+}
+
+.list a {
+  padding: 10px;
+  color: rgba(25, 52, 107, 1);
+  text-decoration: none;
+  font-weight: 500;
+  text-transform: none;
+  font-size: 20px;
+}
+
+.list a:hover,
+.list a.active {
+  color: rgba(178, 193, 225, 1);
+  text-decoration: none;
+}
