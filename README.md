@@ -29,6 +29,6 @@ This is a Personal Expense Tracker application built with React, Redux, and Redu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/22prerak22/expense-tracker.git
    cd expense-tracker
    ```
